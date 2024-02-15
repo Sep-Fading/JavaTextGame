@@ -1,7 +1,4 @@
 /* ************************************************************
-  Author: Sepehr Shamloo
-  Student ID: 210326709
-  
   Date: 28/11/2022
   Version: 1.2
     - Fixed an error with reading files where splitting them using the "|" character
