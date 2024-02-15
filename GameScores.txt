@@ -1,0 +1,8 @@
+Sep1,1000
+Sep,500
+Wongis,400
+boateater,600
+Sepehr,300
+Oatbeater,650
+Sepehr,200
+Sep,1200
